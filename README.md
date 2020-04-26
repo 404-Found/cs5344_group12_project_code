@@ -20,8 +20,4 @@ In this repository, we have codes for :
 PS: Please note that due to different running environment from each teammate, the code may not succesfully run-able in all all environment. Please contact individual author if you have questions. 
 
 Contributors:
-K.Chen
-S.Liu
-S.Shen
-X.Zhang
-Z.Wang
+K.Chen, S.Liu, S.Shen, X.Zhang, Z.Wang
