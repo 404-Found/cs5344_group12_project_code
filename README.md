@@ -12,9 +12,9 @@ We employed 4 different models to categorize tweets sentiment and then predict t
 
 In this repository, we have codes for :
 - Part 1.1 Scrapping Data From Twitter
-- Part 1.2 Data Cleaning and Pre-processing
 
-- Part 2.1. Model Training
+- Part 2.1. Data Processing and Model Training
+  -> Due to the large size of GloVe vector, please refer here for the source: https://drive.google.com/file/d/1gV8Jf-FaSBg9Gsk6WziiCmfYpjEdOCdc/view
 - Part 2.2. Sentiment Prediction
 
 PS: Please note that due to different running environment from each teammate, the code may not succesfully run-able in all all environment. Please contact individual author if you have questions. 
