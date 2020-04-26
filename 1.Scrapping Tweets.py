@@ -5,7 +5,7 @@ from datetime import date
 from datetime import datetime
 import time
 
-tweet_id = 1244821561774923777
+tweet_id = test_id
 
 consumer_key = 'personal key'
 consumer_secret = 'personal key secret'
